@@ -1,0 +1,25 @@
+__pycache__
+new_latest_debug.py
+new_latest_gui_debug.ui
+/backup
+/BasicDemo
+/Brands
+/current_img
+/Pickle
+./system_pickles
+CamOperation_class_rl.py.bak
+Qss
+/logs
+# extensions to ignore
+*.pkl 
+*.jpg
+*.png
+*.pt
+test*.py 
+try1.py
+check/** 
+sangit_rec_train/**
+gfd/** 
+Test/**
+Train/**
+*.txt
